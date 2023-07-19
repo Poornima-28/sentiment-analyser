@@ -4,6 +4,8 @@
 
 This is a simple Sentiment Analyzer app built with Streamlit and Python. The app allows users to analyze the sentiment of text or audio input.
 
+Demo: https://sentiment-analyzer--poornima-28.repl.co/
+
 ## Features
 
 - Sentiment analysis of text input using VADER Sentiment Analyzer.
